@@ -1,7 +1,7 @@
 {
     "name": "@escfromro/bot-docker",
     "description": "RoBot",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Highstrike",
     "license": "MIT",
     "repository": "escfromro/bot-docker",
