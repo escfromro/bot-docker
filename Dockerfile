@@ -1,4 +1,4 @@
-FROM node:9-alpine
+FROM arm32v7/node:12.16.2-alpine
 WORKDIR /app
 COPY package.json /app
 RUN apk add --no-cache git
