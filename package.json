@@ -1,19 +1,19 @@
 {
     "name": "@escfromro/bot-docker",
     "description": "RoBot",
-    "version": "1.0.1",
+    "version": "2.0.0",
     "author": "Highstrike",
     "license": "MIT",
     "repository": "escfromro/bot-docker",
-    "homepage": "https://escapefromromania.ro",
+    "homepage": "https://efr.unimatrix.ro",
     "engines": {
-        "node": ">=9.0.0"
+        "node": ">=12.0.0"
     },
     "scripts": {
         "start": "node index.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "dependencies": {
-        "@escfromro/bot": "^1.0.1"
+        "@escfromro/bot": "^2.0.0"
     }
 }
